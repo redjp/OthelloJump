@@ -5,3 +5,5 @@
 
 <b>ソースコードの場所</b><br>
 スクリプト：Assets/OthelloJump/Script
+
+![alt](image.png)
